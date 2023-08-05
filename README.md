@@ -16,12 +16,11 @@
 
 <h1 align="center">─「 𝐍𝐎𝐁𝐈𝐓𝐀 𝗠𝗨𝗦𝗜𝗖 」─ </h1>
 <p align="center">
-<a href="https://github.com/jaisingh007/NOOBMUSIC/stargazers"><img src="https://img.shields.io/github/stars/Jaisingh007/NOOBMUSIC?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/jaisingh007/NOOBMUSIC/network/members"> <img src="https://img.shields.io/github/forks/Jaisingh007/NOOBMUSIC?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/jaisingh007/NOOBMUSIC/stargazers"><img src="https://img.shields.io/github/stars/Jaisingh007/NOOBMUSIC?color=blue&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/jaisingh007/NOOBMUSIC/network/members"> <img src="https://img.shields.io/github/forks/Jaisingh007/NOOBMUSIC?color=green&logo=github&logoColor=black&style=for-the-badge" /></a>
 <a href="https://github.com/jaisingh007/NOOBMUSIC/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
 <a href="https://github.com/jaisingh007/NOOBMUSIC/commits/Jaisingh007"> <img src="https://img.shields.io/github/last-commit/Jaisingh007/NOOBMUSIC?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
-
 </p>
 
 
@@ -94,47 +93,5 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 <a href="https://telegram.me/THE_NOBITA_SUPPORT"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
-<p align="center">
-  <img src="https://te.legra.ph/file/b8e797457f437310813cb.jpg">
-</p>
-
-<h3 align="center">
-    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
-</h3>
-
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/jaisingh007/NOOBMUSIC"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
-
-<h3 align="center">
-    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
-</h3>
-
-
-
-<h3 align="center">
-    ─「 O̳̿͟͞F̳̿͟͞F̳̿͟͞I̳̿͟͞C̳̿͟͞E̳̿͟͞ 」─
-</h3>
-
-<p align="center">
-<a href="https://telegram.me/Iro_m_bot"><img src="https://img.shields.io/badge/MUSIC%20BOT-blue.svg?style=for-the-badge&logo=Telegram"></a>
-</p>
-
-<p align="center">
-<a href="https://telegram.me/Indian_Chating_Club"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
-</p>
-
-<p align="center">
-<a href="https://telegram.me/The_Nobita_Support"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
-</p>
-
-<h3 align="center">
-    ─「 ᴄʀᴇᴅɪᴛs 」─
-</h3>
-
-<p align="center">
-<a href="https://github.com/Iro09"> <img src="https://img.shields.io/badge/PIKACHU♡-black?style=for-the-badge&logo=github" alt="PIKACHU♡" /> </a>
-<a href="https://github.com/pyrogram/pyrogram"> <img src="https://img.shields.io/badge/Pyrogram-black?style=for-the-badge&logo=github" alt="Pyrogram" /> </a>
-<a href="https://github.com/FantasticSukhi"> <img src="https://img.shields.io/badge/BLACKMAMBA-black?style=for-the-badge&logo=github" alt="Blackmamba" /> </a>
-<a href="https://github.com/raichuop07"> <img src="https://img.shields.io/badge/Raichu-black?style=for-the-badge&logo=github" alt="nobita support" /> </a>
-</p>
 
 - <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [MASTER NOOB](https://github.com/Jaisingh007) </b>
