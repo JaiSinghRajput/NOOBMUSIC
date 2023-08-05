@@ -23,10 +23,6 @@
 <a href="https://github.com/jaisingh007/NOOBMUSIC/commits/Jaisingh007"> <img src="https://img.shields.io/github/last-commit/Jaisingh007/NOOBMUSIC?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
 </p>
 
-
-
-<h4 align = "center"> ★ 𝙷𝙴𝚁𝙾𝙺𝚄 & 𝚅𝙿𝚂 ★ </h4>
-
 <p align = "center"> <a href="https://telegram.me/indian_chating_club"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=21&duration=1500&pause=1000&color=BDD5F7&background=FFFFFF00&width=520&lines=FREE+FROM+HEROKU+BAN+ISSUE;VPS+DEPLOY+ALSO+AVAILABLE;REPO+WRITTEN+BY+MAASTER+NOOB(NOBITA+X)" alt="Typing SVG"/> click me 😘🥰</a></p>
 <p align="center">
   <img src="https://te.legra.ph/file/075b28c5fb3e71de908d7.jpg">
@@ -37,12 +33,14 @@
 <a href="https://telegram.me/indian_chating_club"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=21&duration=5003&pause=1000&color=1AF786&background=FFFFFF00&multiline=true&width=520&lines=FROK+THE+REPO+FIRSTLY+TO+AVOID+LEG+OF+BOT" alt="Typing SVG" /></a>
 
 <h3 align="center">
-    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
+<h4 align = "center"> ★ 𝙷𝙴𝚁𝙾𝙺𝚄 & 𝚅𝙿𝚂 ★ </h4>
+<h7 align = "center"> ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─</h7>
 
-<h3> 𝗛𝗘𝗥𝗢𝗞𝗨 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗕𝗨𝗧𝗧𝗢𝗡 </h3>
+<h3> 𝗛𝗘𝗥𝗢𝗞𝗨 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗕𝗨𝗧𝗧𝗢𝗡<h3>
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/jaisingh007/NobitaMusicbot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-bringle?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/jaisingh007/NOOBMUSIC"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-bringle?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 <h2 align="center">
 
